@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 class Model{
   String title;
   int watt;
-  int value;
+  double value;
   bool state;
   Model({
    @required this.title,

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:smarthome/view/lights.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
@@ -10,7 +11,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text('123'),
+        child: Lights(),
       ),
     );
   }
