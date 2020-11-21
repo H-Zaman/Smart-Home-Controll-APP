@@ -1,3 +1,3 @@
 # UI Design Concepts
 
-UI design challenge of Smart of Light Control UI
+1.UI design challenge of Smart of Light Control UI
