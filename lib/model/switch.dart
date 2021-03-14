@@ -1,11 +1,11 @@
 import 'package:flutter/cupertino.dart';
 
-class Model{
+class LightSwitchModel{
   String title;
   int watt;
   double value;
   bool state;
-  Model({
+  LightSwitchModel({
    @required this.title,
    @required this.watt,
    @required this.value,
