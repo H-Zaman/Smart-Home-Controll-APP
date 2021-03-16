@@ -1,3 +1,3 @@
 # UI Design Concepts
 
-1.UI design challenge of Smart of Light Control UI
+Inspiration from https://dribbble.com/shots/6938442--Smartest-Home-App
